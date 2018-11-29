@@ -163,7 +163,7 @@ memory用于缓存分段数据。memory的初始值可以是零，也可以是�
 标记RNN输出变量。
 
 参数:
-    - outputs - 输出变量。
+    - **\*outputs** - 输出变量。
 
 返回:None
  
